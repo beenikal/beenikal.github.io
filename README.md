@@ -1,4 +1,4 @@
 beenikal.github.io
 ==================
 
-Directorio prinvicpal de pruebas completas
+Directorio principal de pruebas completas
